@@ -1,17 +1,17 @@
 ## Description:
-Secure Password Manager is a Python-based application designed to store and manage your passwords securely. With a user-friendly interface, it helps you keep track of your credentials while ensuring their security through encryption.
+Python Secure Password Manager is a Python-based (what a suprise) application designed to store and manage your passwords securely. With a user-friendly interface, it helps you keep track of your credentials while ensuring their security through encryption.
 
 ## Installation:
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/KadirKess/Secure-Password-Manager.git
+git clone https://github.com/KadirKess/Python-Secure-Password-Manager.git
 ```
 
 Navigate to the project directory:
 
 ```
-cd password-manager
+cd Python-Secure-Password-Manager
 ```
 
 Install the required dependencies:
